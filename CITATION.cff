@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this method or build on the evidence, please cite."
+title: "Hopper Line v2: evidence-routed local document extraction"
+type: software
+authors:
+  - family-names: "Anderson"
+    given-names: "Nick"
+version: "2.0"
+date-released: "2026-08-29"
+license: MIT
